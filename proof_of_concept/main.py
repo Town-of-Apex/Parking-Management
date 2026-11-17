@@ -42,7 +42,7 @@ async def configure_camera(
     global monitor
     
     # Construct URL based on user example:
-    # http://connor:@REMOVED@10.9.4.215/axis-cgi/media.cgi?container=mp4&video=1&audio=0&videocodec=h264
+    # http://username-goes-here:password-goes-here@ip-goes-here/axis-cgi/media.cgi?container=mp4&video=1&audio=0&videocodec=h264
     # Note: URL encoding might be needed for special chars in password. 
     # For simplicity, we stick to f-string insertion as requested.
     

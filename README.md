@@ -1,5 +1,7 @@
 # Municipal Parking & Security Vision System
 
+## Status: Archived experiment/proof-of-concept
+
 This project is a microservices-based system designed to manage city-wide parking occupancy and security cameras using computer vision.
 
 ## 🏗️ Architecture Overview
